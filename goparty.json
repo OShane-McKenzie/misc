@@ -17,5 +17,7 @@
 "Trade Show", "Truck", "Van", "Wedding Reception", "Wine Tasting", "Workshop", 
 "Zumba Party","Other"
 
-  ]
+  ],
+  "ads": false,
+  "version": 1.0
 }
