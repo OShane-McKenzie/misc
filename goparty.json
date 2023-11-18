@@ -23,13 +23,13 @@
   "contacts":[
     {
       "type":"email",
-      "icon":"",
+      "icon":"https://oshane-mckenzie.github.io/misc/email.png",
       "detail":"gopartyja@gmail.com",
       "display":"goparty@gmail.com"
     },
     {
       "type":"whatsapp",
-      "icon":"",
+      "icon":"https://oshane-mckenzie.github.io/misc/whatsapp.png",
       "detail":"https://wa.me/18763093763",
       "display":"WhatsApp"
     }
