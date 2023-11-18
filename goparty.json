@@ -19,5 +19,19 @@
 
   ],
   "ads": false,
-  "version": 1.0
+  "version": 1.0,
+  "contacts":[
+    {
+      "type":"email",
+      "icon":"",
+      "detail":"gopartyja@gmail.com",
+      "display":"goparty@gmail.com"
+    },
+    {
+      "type":"whatsapp",
+      "icon":"",
+      "detail":"https://wa.me/18763093763",
+      "display":"WhatsApp"
+    }
+  ]
 }
