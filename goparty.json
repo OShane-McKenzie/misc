@@ -31,7 +31,13 @@
       "type":"whatsapp",
       "icon":"https://oshane-mckenzie.github.io/misc/whatsapp.png",
       "detail":"https://wa.me/18763093763",
-      "display":"WhatsApp"
+      "display":"WhatsApp us."
+    },
+    {
+      "type":"website",
+      "icon":"https://oshane-mckenzie.github.io/misc/website.png",
+      "detail":"https://sites.google.com/view/gopartyapp/home",
+      "display":"Visit our website"
     }
   ]
 }
