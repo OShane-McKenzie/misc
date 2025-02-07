@@ -1,144 +1,164 @@
 {
-  "menu":[
+  "menu": [
     {
       "name": "Hummus",
       "description": "A creamy dip made from blended chickpeas, tahini, lemon, and garlic.",
       "price": 6.5,
       "main_ingredients": ["Chickpeas", "Tahini", "Lemon", "Garlic"],
-      "dietary_info": ["Vegan", "Gluten-Free"]
+      "dietary_info": ["Vegan", "Gluten-Free"],
+      "img": 0
     },
     {
       "name": "Falafel",
       "description": "Deep-fried chickpea balls, often served in pita bread with tahini sauce.",
       "price": 8,
       "main_ingredients": ["Chickpeas", "Herbs", "Spices"],
-      "dietary_info": ["Vegan"]
+      "dietary_info": ["Vegan"],
+      "img": 1
     },
     {
       "name": "Moussaka",
       "description": "A layered casserole with eggplant, minced meat, tomatoes, and béchamel sauce.",
       "price": 15,
       "main_ingredients": ["Eggplant", "Minced beef/lamb", "Béchamel"],
-      "dietary_info": ["Contains Dairy", "Non-Vegetarian"]
+      "dietary_info": ["Contains Dairy", "Non-Vegetarian"],
+      "img": 2
     },
     {
       "name": "Tzatziki",
       "description": "A refreshing yogurt-based dip with cucumber, garlic, and dill.",
       "price": 5.5,
       "main_ingredients": ["Greek yogurt", "Cucumber", "Garlic"],
-      "dietary_info": ["Vegetarian", "Gluten-Free"]
+      "dietary_info": ["Vegetarian", "Gluten-Free"],
+      "img": 3
     },
     {
       "name": "Dolma",
       "description": "Grape leaves stuffed with rice, pine nuts, and herbs.",
       "price": 7.5,
       "main_ingredients": ["Grape leaves", "Rice", "Pine nuts"],
-      "dietary_info": ["Vegan"]
+      "dietary_info": ["Vegan"],
+      "img": 4
     },
     {
       "name": "Spanakopita",
       "description": "A Greek spinach and feta cheese pie wrapped in flaky phyllo pastry.",
       "price": 9.5,
       "main_ingredients": ["Spinach", "Feta", "Phyllo dough"],
-      "dietary_info": ["Vegetarian", "Contains Dairy"]
+      "dietary_info": ["Vegetarian", "Contains Dairy"],
+      "img": 5
     },
     {
       "name": "Baba Ganoush",
       "description": "A smoky eggplant dip blended with tahini, garlic, and lemon juice.",
       "price": 6.5,
       "main_ingredients": ["Eggplant", "Tahini", "Garlic"],
-      "dietary_info": ["Vegan", "Gluten-Free"]
+      "dietary_info": ["Vegan", "Gluten-Free"],
+      "img": 6
     },
     {
       "name": "Shawarma",
       "description": "Marinated and slow-roasted meat served in pita with vegetables and sauce.",
       "price": 10,
       "main_ingredients": ["Chicken/Lamb/Beef", "Spices", "Pita"],
-      "dietary_info": ["Non-Vegetarian"]
+      "dietary_info": ["Non-Vegetarian"],
+      "img": 7
     },
     {
       "name": "Greek Salad",
       "description": "A fresh salad with tomatoes, cucumbers, olives, feta cheese, and olive oil.",
       "price": 8.5,
       "main_ingredients": ["Tomatoes", "Cucumbers", "Feta", "Olives"],
-      "dietary_info": ["Vegetarian", "Gluten-Free"]
+      "dietary_info": ["Vegetarian", "Gluten-Free"],
+      "img": 8
     },
     {
       "name": "Baklava",
       "description": "A rich dessert made of phyllo dough, nuts, and honey syrup.",
       "price": 6.5,
       "main_ingredients": ["Phyllo dough", "Walnuts/Pistachios", "Honey"],
-      "dietary_info": ["Vegetarian", "Contains Nuts"]
+      "dietary_info": ["Vegetarian", "Contains Nuts"],
+      "img": 9
     },
     {
       "name": "Bruschetta",
       "description": "Toasted bread topped with tomatoes, basil, garlic, and olive oil.",
       "price": 7.5,
       "main_ingredients": ["Bread", "Tomatoes", "Basil", "Garlic"],
-      "dietary_info": ["Vegetarian"]
+      "dietary_info": ["Vegetarian"],
+      "img": 10
     },
     {
       "name": "Paella",
       "description": "A Spanish rice dish cooked with saffron, seafood, or chicken.",
       "price": 18.5,
       "main_ingredients": ["Rice", "Saffron", "Seafood/Chicken"],
-      "dietary_info": ["Non-Vegetarian", "Gluten-Free"]
+      "dietary_info": ["Non-Vegetarian", "Gluten-Free"],
+      "img": 11
     },
     {
       "name": "Kebab",
       "description": "Grilled meat skewers, often served with rice and vegetables.",
       "price": 12.5,
       "main_ingredients": ["Lamb/Beef/Chicken", "Spices"],
-      "dietary_info": ["Non-Vegetarian"]
+      "dietary_info": ["Non-Vegetarian"],
+      "img": 12
     },
     {
       "name": "Saganaki",
       "description": "Fried Greek cheese served flambéed with lemon juice.",
       "price": 10,
       "main_ingredients": ["Cheese", "Lemon", "Olive oil"],
-      "dietary_info": ["Vegetarian"]
+      "dietary_info": ["Vegetarian"],
+      "img": 13
     },
     {
       "name": "Couscous",
       "description": "A North African dish of steamed semolina wheat, often served with vegetables and meat.",
       "price": 12,
       "main_ingredients": ["Couscous", "Vegetables", "Lamb/Chicken"],
-      "dietary_info": ["Vegetarian/Non-Vegetarian"]
+      "dietary_info": ["Vegetarian/Non-Vegetarian"],
+      "img": 14
     },
     {
       "name": "Pita Bread & Labneh",
       "description": "Soft flatbread served with strained yogurt dip.",
       "price": 6.5,
       "main_ingredients": ["Flour", "Yogurt", "Olive oil"],
-      "dietary_info": ["Vegetarian"]
+      "dietary_info": ["Vegetarian"],
+      "img": 15
     },
     {
       "name": "Ratatouille",
       "description": "A French Provençal vegetable stew made with eggplant, zucchini, and tomatoes.",
       "price": 12,
       "main_ingredients": ["Eggplant", "Zucchini", "Tomatoes", "Bell Peppers"],
-      "dietary_info": ["Vegan", "Gluten-Free"]
+      "dietary_info": ["Vegan", "Gluten-Free"],
+      "img": 16
     },
     {
       "name": "Pastitsio",
       "description": "A Greek baked pasta dish with layers of minced meat and béchamel sauce.",
       "price": 15,
       "main_ingredients": ["Pasta", "Minced Meat", "Béchamel"],
-      "dietary_info": ["Contains Dairy", "Non-Vegetarian"]
+      "dietary_info": ["Contains Dairy", "Non-Vegetarian"],
+      "img": 17
     },
     {
       "name": "Harira Soup",
       "description": "A Moroccan soup with tomatoes, lentils, chickpeas, and spices.",
       "price": 10,
       "main_ingredients": ["Tomatoes", "Lentils", "Chickpeas", "Spices"],
-      "dietary_info": ["Vegetarian", "Gluten-Free"]
+      "dietary_info": ["Vegetarian", "Gluten-Free"],
+      "img": 18
     },
     {
       "name": "Fattoush",
       "description": "A Lebanese bread salad with crisp vegetables and sumac dressing.",
       "price": 8.5,
       "main_ingredients": ["Pita Chips", "Lettuce", "Tomatoes", "Cucumbers"],
-      "dietary_info": ["Vegan"]
+      "dietary_info": ["Vegan"],
+      "img": 19
     }
   ]
 }
