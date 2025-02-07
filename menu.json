@@ -2,6 +2,7 @@
   "menu": [
     {
       "name": "Hummus",
+      "category": "Appetizer",
       "description": "A creamy dip made from blended chickpeas, tahini, lemon, and garlic.",
       "price": 6.5,
       "main_ingredients": ["Chickpeas", "Tahini", "Lemon", "Garlic"],
@@ -10,6 +11,7 @@
     },
     {
       "name": "Falafel",
+      "category": "Appetizer",
       "description": "Deep-fried chickpea balls, often served in pita bread with tahini sauce.",
       "price": 8,
       "main_ingredients": ["Chickpeas", "Herbs", "Spices"],
@@ -18,6 +20,7 @@
     },
     {
       "name": "Moussaka",
+      "category": "Main Course",
       "description": "A layered casserole with eggplant, minced meat, tomatoes, and béchamel sauce.",
       "price": 15,
       "main_ingredients": ["Eggplant", "Minced beef/lamb", "Béchamel"],
@@ -26,6 +29,7 @@
     },
     {
       "name": "Tzatziki",
+      "category": "Appetizer",
       "description": "A refreshing yogurt-based dip with cucumber, garlic, and dill.",
       "price": 5.5,
       "main_ingredients": ["Greek yogurt", "Cucumber", "Garlic"],
@@ -34,6 +38,7 @@
     },
     {
       "name": "Dolma",
+      "category": "Appetizer",
       "description": "Grape leaves stuffed with rice, pine nuts, and herbs.",
       "price": 7.5,
       "main_ingredients": ["Grape leaves", "Rice", "Pine nuts"],
@@ -42,6 +47,7 @@
     },
     {
       "name": "Spanakopita",
+      "category": "Appetizer",
       "description": "A Greek spinach and feta cheese pie wrapped in flaky phyllo pastry.",
       "price": 9.5,
       "main_ingredients": ["Spinach", "Feta", "Phyllo dough"],
@@ -50,6 +56,7 @@
     },
     {
       "name": "Baba Ganoush",
+      "category": "Appetizer",
       "description": "A smoky eggplant dip blended with tahini, garlic, and lemon juice.",
       "price": 6.5,
       "main_ingredients": ["Eggplant", "Tahini", "Garlic"],
@@ -58,6 +65,7 @@
     },
     {
       "name": "Shawarma",
+      "category": "Main Course",
       "description": "Marinated and slow-roasted meat served in pita with vegetables and sauce.",
       "price": 10,
       "main_ingredients": ["Chicken/Lamb/Beef", "Spices", "Pita"],
@@ -66,6 +74,7 @@
     },
     {
       "name": "Greek Salad",
+      "category": "Side Dish",
       "description": "A fresh salad with tomatoes, cucumbers, olives, feta cheese, and olive oil.",
       "price": 8.5,
       "main_ingredients": ["Tomatoes", "Cucumbers", "Feta", "Olives"],
@@ -74,6 +83,7 @@
     },
     {
       "name": "Baklava",
+      "category": "Dessert",
       "description": "A rich dessert made of phyllo dough, nuts, and honey syrup.",
       "price": 6.5,
       "main_ingredients": ["Phyllo dough", "Walnuts/Pistachios", "Honey"],
@@ -82,6 +92,7 @@
     },
     {
       "name": "Bruschetta",
+      "category": "Appetizer",
       "description": "Toasted bread topped with tomatoes, basil, garlic, and olive oil.",
       "price": 7.5,
       "main_ingredients": ["Bread", "Tomatoes", "Basil", "Garlic"],
@@ -90,6 +101,7 @@
     },
     {
       "name": "Paella",
+      "category": "Main Course",
       "description": "A Spanish rice dish cooked with saffron, seafood, or chicken.",
       "price": 18.5,
       "main_ingredients": ["Rice", "Saffron", "Seafood/Chicken"],
@@ -98,6 +110,7 @@
     },
     {
       "name": "Kebab",
+      "category": "Main Course",
       "description": "Grilled meat skewers, often served with rice and vegetables.",
       "price": 12.5,
       "main_ingredients": ["Lamb/Beef/Chicken", "Spices"],
@@ -106,6 +119,7 @@
     },
     {
       "name": "Saganaki",
+      "category": "Appetizer",
       "description": "Fried Greek cheese served flambéed with lemon juice.",
       "price": 10,
       "main_ingredients": ["Cheese", "Lemon", "Olive oil"],
@@ -114,6 +128,7 @@
     },
     {
       "name": "Couscous",
+      "category": "Main Course",
       "description": "A North African dish of steamed semolina wheat, often served with vegetables and meat.",
       "price": 12,
       "main_ingredients": ["Couscous", "Vegetables", "Lamb/Chicken"],
@@ -122,6 +137,7 @@
     },
     {
       "name": "Pita Bread & Labneh",
+      "category": "Side Dish",
       "description": "Soft flatbread served with strained yogurt dip.",
       "price": 6.5,
       "main_ingredients": ["Flour", "Yogurt", "Olive oil"],
@@ -130,6 +146,7 @@
     },
     {
       "name": "Ratatouille",
+      "category": "Main Course",
       "description": "A French Provençal vegetable stew made with eggplant, zucchini, and tomatoes.",
       "price": 12,
       "main_ingredients": ["Eggplant", "Zucchini", "Tomatoes", "Bell Peppers"],
@@ -138,6 +155,7 @@
     },
     {
       "name": "Pastitsio",
+      "category": "Main Course",
       "description": "A Greek baked pasta dish with layers of minced meat and béchamel sauce.",
       "price": 15,
       "main_ingredients": ["Pasta", "Minced Meat", "Béchamel"],
@@ -146,6 +164,7 @@
     },
     {
       "name": "Harira Soup",
+      "category": "Appetizer",
       "description": "A Moroccan soup with tomatoes, lentils, chickpeas, and spices.",
       "price": 10,
       "main_ingredients": ["Tomatoes", "Lentils", "Chickpeas", "Spices"],
@@ -154,6 +173,7 @@
     },
     {
       "name": "Fattoush",
+      "category": "Side Dish",
       "description": "A Lebanese bread salad with crisp vegetables and sumac dressing.",
       "price": 8.5,
       "main_ingredients": ["Pita Chips", "Lettuce", "Tomatoes", "Cucumbers"],
